@@ -1,3 +1,34 @@
+
+# Frontend for Chatbot 
+
+A frontend for chatbot made using Vite, React and TypeScript.
+
+
+## Run Locally
+
+Clone the project
+
+Go to the project directory
+
+```bash
+  cd rag-chatbot-playground/frontend
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
